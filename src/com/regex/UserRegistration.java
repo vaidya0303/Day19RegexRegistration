@@ -179,7 +179,7 @@ public class UserRegistration {
                 default:
                     System.out.println("Invalid choice");
                     System.exit(0);
-            }
+             }
         }
     }
 }
